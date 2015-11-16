@@ -9,4 +9,4 @@ Animated walkthrough of main Mailbox interactions <br />
 [ ] Optional: Tapping the segmented control in the title should swipe views in from the left or right. <br />
 [ ] Optional: Shake to undo. <br />
 <br />
-![GIF demo] (Mailbox_demo.gif)
+![GIF demo] (Mailbox Demo.gif)
